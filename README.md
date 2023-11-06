@@ -62,7 +62,7 @@
 
 
 
-Here's a video demonstrating the Blckjack Simulator in action:
+Here's a video demonstrating the Snake Game Simulator in action:
 <p align="center">
   <img src="https://github.com/senabibi/Snake_Game/blob/main/images/snake.gif" alt="Snake Game Demo">
 </p>
